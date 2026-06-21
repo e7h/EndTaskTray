@@ -6,6 +6,14 @@ A lightweight Windows system-tray utility that lets you instantly end any runnin
 
 ---
 
+## Why This Exists
+
+For years, **Windows 10** has had no quick way to kill a frozen or misbehaving app directly from the taskbar. When something hangs, your only options are to open Task Manager, hunt down the right process in a long list, and click "End task" — or sit and wait on Windows' own unresponsive-app dialog. It's a small, recurring annoyance that everyone who uses Windows has run into.
+
+Windows 11 eventually added an "End task" option to the taskbar's right-click menu, but **Windows 10 never got it**. EndTaskTray brings that missing convenience to Windows 10: middle-click any taskbar icon and the app is ended instantly — no menus, no hunting, no waiting. It's the answer to that age-old problem.
+
+---
+
 ## Features
 
 - **One-click kill from the taskbar** — middle-click any running app icon to end it immediately.
@@ -33,7 +41,7 @@ The middle-click is swallowed when it targets the taskbar, so it won't trigger a
 
 ## Requirements
 
-- **Windows 10 or Windows 11**
+- **Windows 10** (the target platform; also works on Windows 11)
 - **.NET 8.0 Desktop Runtime** (Windows Desktop)
 - **Administrator privileges** — required to terminate processes that run at higher integrity levels. The app manifest requests elevation automatically (`requireAdministrator`).
 
