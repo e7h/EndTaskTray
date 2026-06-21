@@ -1,0 +1,14 @@
+C:\Users\Slay\Desktop\New folder (17)\bin\Release\net8.0-windows\EndTaskTray.exe
+C:\Users\Slay\Desktop\New folder (17)\bin\Release\net8.0-windows\EndTaskTray.deps.json
+C:\Users\Slay\Desktop\New folder (17)\bin\Release\net8.0-windows\EndTaskTray.runtimeconfig.json
+C:\Users\Slay\Desktop\New folder (17)\bin\Release\net8.0-windows\EndTaskTray.dll
+C:\Users\Slay\Desktop\New folder (17)\bin\Release\net8.0-windows\EndTaskTray.pdb
+C:\Users\Slay\Desktop\New folder (17)\obj\Release\net8.0-windows\EndTaskTray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slay\Desktop\New folder (17)\obj\Release\net8.0-windows\EndTaskTray.AssemblyInfoInputs.cache
+C:\Users\Slay\Desktop\New folder (17)\obj\Release\net8.0-windows\EndTaskTray.AssemblyInfo.cs
+C:\Users\Slay\Desktop\New folder (17)\obj\Release\net8.0-windows\EndTaskTray.csproj.CoreCompileInputs.cache
+C:\Users\Slay\Desktop\New folder (17)\obj\Release\net8.0-windows\EndTaskTray.dll
+C:\Users\Slay\Desktop\New folder (17)\obj\Release\net8.0-windows\refint\EndTaskTray.dll
+C:\Users\Slay\Desktop\New folder (17)\obj\Release\net8.0-windows\EndTaskTray.pdb
+C:\Users\Slay\Desktop\New folder (17)\obj\Release\net8.0-windows\EndTaskTray.genruntimeconfig.cache
+C:\Users\Slay\Desktop\New folder (17)\obj\Release\net8.0-windows\ref\EndTaskTray.dll
