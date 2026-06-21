@@ -44,11 +44,9 @@ The middle-click is swallowed when it targets the taskbar, so it won't trigger a
 The project targets `net8.0-windows` and uses both Windows Forms and WPF (for UI Automation).
 
 ```bash
-# Clone the repository
 git clone https://github.com/<your-username>/EndTaskTray.git
 cd EndTaskTray
 
-# Build a release binary
 dotnet build -c Release
 ```
 
